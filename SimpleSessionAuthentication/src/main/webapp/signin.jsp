@@ -25,22 +25,7 @@
 <script type="text/javascript"
 	src="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/3.10.0/mdb.min.js"></script>
 <style>
-.divider:after, .divider:before {
-	content: "";
-	flex: 1;
-	height: 1px;
-	background: #eee;
-}
 
-.h-custom {
-	height: calc(100% - 73px);
-}
-
-@media ( max-width : 450px) {
-	.h-custom {
-		height: 100%;
-	}
-}
 </style>
 </head>
 <body>
